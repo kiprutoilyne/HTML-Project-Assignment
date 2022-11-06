@@ -1,0 +1,37 @@
+ body {
+     background-color: papayawhip;
+
+ }
+
+ .mainpgh {
+     width: 600px;
+
+     border: 4px bold red;
+ }
+
+ p {
+     line-height: 2;
+ }
+
+ h3 {
+     margin-left: 100px;
+     margin-top: 300px;
+ }
+
+ #direct {
+     margin-left: 250px;
+ }
+
+ img {
+     margin: auto 150px;
+ }
+
+ h1 {
+
+     margin-left: 150px;
+ }
+
+ .mainpgh {
+
+     padding: 50px 200px;
+ }
